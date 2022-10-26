@@ -9,6 +9,9 @@ reduxツールキットを使って、store,slice,state,reducer,actionを作成
 urlはこちら
 https://github.com/massu-159/react-redux-sample
 
+Reduxはこちらを参照
+[Redux公式](https://redux.js.org/introduction/getting-started)
+
 
 ## 目次
 1. 環境構築
